@@ -27,7 +27,7 @@ This project performs Exploratory Data Analysis (EDA) on IPL dataset.
 ![Bowler](https://github.com/sameerkhan03-eng/IPL-Data-Analysis-EDA/blob/main/Bowlers%202026-04-20%20110328.png)
 ![Runs Per overs](https://github.com/sameerkhan03-eng/IPL-Data-Analysis-EDA/blob/main/runs%20Per%20over2026-04-20%20110339.png)
 ![Over Wise Runs](https://github.com/sameerkhan03-eng/IPL-Data-Analysis-EDA/blob/main/Over%20wise%20Runs%202026-04-20%20110357.png)
-![Phase](images/phase_analysis.png)
+![Phase](https://github.com/sameerkhan03-eng/IPL-Data-Analysis-EDA/blob/main/Phases%202026-04-20%20110414.png)
 
 ## 🚀 Author
 Sameer Khan
