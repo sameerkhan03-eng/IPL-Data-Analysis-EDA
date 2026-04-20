@@ -1,0 +1,251 @@
+match_id,innings,over,ball,batting_team,bowler,runs,extras,wicket,total_runs,match_phase
+1,1,1,1,RR,Mohammed Siraj,1,0,0,1,Power play
+1,1,1,2,RR,Mohammed Siraj,4,0,0,4,Power play
+1,1,1,3,RR,Mohammed Siraj,0,0,0,0,Power play
+1,1,1,4,RR,Mohammed Siraj,4,0,0,4,Power play
+1,1,1,5,RR,Mohammed Siraj,1,0,0,1,Power play
+1,1,1,6,RR,Mohammed Siraj,0,0,0,0,Power play
+1,1,2,1,RR,Kagiso Rabada,1,0,0,1,Power play
+1,1,2,2,RR,Kagiso Rabada,1,0,0,1,Power play
+1,1,2,3,RR,Kagiso Rabada,0,0,0,0,Power play
+1,1,2,4,RR,Kagiso Rabada,0,1,0,1,Power play
+1,1,2,5,RR,Kagiso Rabada,0,0,0,0,Power play
+1,1,2,6,RR,Kagiso Rabada,4,0,0,4,Power play
+1,1,2,7,RR,Kagiso Rabada,0,0,0,0,Power play
+1,1,3,1,RR,Mohammed Siraj,6,0,0,6,Power play
+1,1,3,2,RR,Mohammed Siraj,4,0,0,4,Power play
+1,1,3,3,RR,Mohammed Siraj,0,1,0,1,Power play
+1,1,3,4,RR,Mohammed Siraj,0,0,0,0,Power play
+1,1,3,5,RR,Mohammed Siraj,4,0,0,4,Power play
+1,1,3,6,RR,Mohammed Siraj,0,0,0,0,Power play
+1,1,3,7,RR,Mohammed Siraj,0,0,0,0,Power play
+1,1,4,1,RR,Unknown,0,0,0,0,Power play
+1,1,4,2,RR,Unknown,0,1,0,1,Power play
+1,1,4,3,RR,Unknown,4,0,0,4,Power play
+1,1,4,4,RR,Unknown,1,0,0,1,Power play
+1,1,4,5,RR,Unknown,0,0,0,0,Power play
+1,1,4,6,RR,Unknown,0,0,0,0,Power play
+1,1,4,7,RR,Unknown,6,0,0,6,Power play
+1,1,5,1,RR,Ashok Sharma,4,0,0,4,Power play
+1,1,5,2,RR,Ashok Sharma,6,0,0,6,Power play
+1,1,5,3,RR,Ashok Sharma,1,0,0,1,Power play
+1,1,5,4,RR,Ashok Sharma,0,0,0,0,Power play
+1,1,5,5,RR,Ashok Sharma,2,0,0,2,Power play
+1,1,5,6,RR,Ashok Sharma,0,0,0,0,Power play
+1,1,6,1,RR,Prasiddh Krishna,1,0,0,1,Power play
+1,1,6,2,RR,Prasiddh Krishna,0,0,0,0,Power play
+1,1,6,3,RR,Prasiddh Krishna,6,0,0,6,Power play
+1,1,6,4,RR,Prasiddh Krishna,4,0,0,4,Power play
+1,1,6,5,RR,Prasiddh Krishna,1,0,0,1,Power play
+1,1,6,6,RR,Prasiddh Krishna,0,0,0,0,Power play
+1,1,7,1,RR,Rashid Khan,1,0,0,1,Middle
+1,1,7,2,RR,Rashid Khan,0,0,1,0,Middle
+1,1,7,3,RR,Rashid Khan,1,0,0,1,Middle
+1,1,7,4,RR,Rashid Khan,1,0,0,1,Middle
+1,1,7,5,RR,Rashid Khan,1,0,0,1,Middle
+1,1,7,6,RR,Rashid Khan,1,0,0,1,Middle
+1,1,8,1,RR,Prasiddh Krishna,0,0,0,0,Middle
+1,1,8,2,RR,Prasiddh Krishna,0,0,0,0,Middle
+1,1,8,3,RR,Prasiddh Krishna,1,0,0,1,Middle
+1,1,8,4,RR,Prasiddh Krishna,0,0,0,0,Middle
+1,1,8,5,RR,Prasiddh Krishna,1,0,0,1,Middle
+1,1,8,6,RR,Prasiddh Krishna,4,0,0,4,Middle
+1,1,9,1,RR,Rashid Khan,1,0,0,1,Middle
+1,1,9,2,RR,Rashid Khan,1,0,0,1,Middle
+1,1,9,3,RR,Rashid Khan,4,1,0,5,Middle
+1,1,9,4,RR,Rashid Khan,1,0,0,1,Middle
+1,1,9,5,RR,Rashid Khan,1,0,0,1,Middle
+1,1,9,6,RR,Rashid Khan,1,0,0,1,Middle
+1,1,9,7,RR,Rashid Khan,2,0,0,2,Middle
+1,1,10,1,RR,Ashok Sharma,0,0,0,0,Middle
+1,1,10,2,RR,Ashok Sharma,4,0,0,4,Middle
+1,1,10,3,RR,Ashok Sharma,0,0,0,0,Middle
+1,1,10,4,RR,Ashok Sharma,0,0,0,0,Middle
+1,1,10,5,RR,Ashok Sharma,1,0,0,1,Middle
+1,1,10,6,RR,Ashok Sharma,0,0,0,0,Middle
+1,1,11,1,RR,Rashid Khan,4,0,0,4,Middle
+1,1,11,2,RR,Rashid Khan,2,0,0,2,Middle
+1,1,11,3,RR,Rashid Khan,0,0,0,0,Middle
+1,1,11,4,RR,Rashid Khan,0,0,0,0,Middle
+1,1,11,5,RR,Rashid Khan,0,0,0,0,Middle
+1,1,11,6,RR,Rashid Khan,4,0,0,4,Middle
+1,1,12,1,RR,Mohammed Siraj,0,0,0,0,Middle
+1,1,12,2,RR,Mohammed Siraj,4,0,0,4,Middle
+1,1,12,3,RR,Mohammed Siraj,1,1,0,2,Middle
+1,1,12,4,RR,Mohammed Siraj,0,0,0,0,Middle
+1,1,12,5,RR,Mohammed Siraj,4,0,0,4,Middle
+1,1,12,6,RR,Mohammed Siraj,6,0,0,6,Middle
+1,1,13,1,RR,Kagiso Rabada,0,0,0,0,Middle
+1,1,13,2,RR,Kagiso Rabada,4,0,0,4,Middle
+1,1,13,3,RR,Kagiso Rabada,0,0,1,0,Middle
+1,1,13,4,RR,Kagiso Rabada,6,0,0,6,Middle
+1,1,13,5,RR,Kagiso Rabada,2,0,0,2,Middle
+1,1,13,6,RR,Kagiso Rabada,0,0,0,0,Middle
+1,1,14,1,RR,Prasiddh Krishna,1,0,0,1,Middle
+1,1,14,2,RR,Prasiddh Krishna,0,0,1,0,Middle
+1,1,14,3,RR,Prasiddh Krishna,0,0,0,0,Middle
+1,1,14,4,RR,Prasiddh Krishna,0,1,0,1,Middle
+1,1,14,5,RR,Prasiddh Krishna,6,0,0,6,Middle
+1,1,14,6,RR,Prasiddh Krishna,6,0,0,6,Middle
+1,1,15,1,RR,Rashid Khan,0,1,0,1,Middle
+1,1,15,2,RR,Rashid Khan,6,0,0,6,Middle
+1,1,15,3,RR,Rashid Khan,1,0,0,1,Middle
+1,1,15,4,RR,Rashid Khan,1,0,0,1,Middle
+1,1,15,5,RR,Rashid Khan,1,0,0,1,Middle
+1,1,15,6,RR,Rashid Khan,1,0,0,1,Middle
+1,1,16,1,RR,Ashok Sharma,1,0,0,1,Death
+1,1,16,2,RR,Ashok Sharma,4,0,0,4,Death
+1,1,16,3,RR,Ashok Sharma,0,0,1,0,Death
+1,1,16,4,RR,Ashok Sharma,0,0,0,0,Death
+1,1,16,5,RR,Ashok Sharma,1,0,0,1,Death
+1,1,16,6,RR,Ashok Sharma,0,0,0,0,Death
+1,1,17,1,RR,Kagiso Rabada,0,0,1,0,Death
+1,1,17,2,RR,Kagiso Rabada,1,0,0,1,Death
+1,1,17,3,RR,Kagiso Rabada,6,0,0,6,Death
+1,1,17,4,RR,Kagiso Rabada,0,1,0,1,Death
+1,1,17,5,RR,Kagiso Rabada,2,0,0,2,Death
+1,1,17,6,RR,Kagiso Rabada,1,0,0,1,Death
+1,1,17,7,RR,Kagiso Rabada,0,0,0,0,Death
+1,1,18,1,RR,Ashok Sharma,6,0,0,6,Death
+1,1,18,2,RR,Ashok Sharma,1,0,0,1,Death
+1,1,18,3,RR,Ashok Sharma,1,0,0,1,Death
+1,1,18,4,RR,Ashok Sharma,0,1,0,1,Death
+1,1,18,5,RR,Ashok Sharma,2,0,0,2,Death
+1,1,18,6,RR,Ashok Sharma,1,0,0,1,Death
+1,1,18,7,RR,Ashok Sharma,0,1,0,1,Death
+1,1,18,8,RR,Ashok Sharma,0,0,0,0,Death
+1,1,19,1,RR,Prasiddh Krishna,2,0,0,2,Death
+1,1,19,2,RR,Prasiddh Krishna,1,0,0,1,Death
+1,1,19,3,RR,Prasiddh Krishna,1,0,0,1,Death
+1,1,19,4,RR,Prasiddh Krishna,6,0,0,6,Death
+1,1,19,5,RR,Prasiddh Krishna,1,0,0,1,Death
+1,1,19,6,RR,Prasiddh Krishna,0,0,0,0,Death
+1,1,20,1,RR,Mohammed Siraj,4,0,0,4,Death
+1,1,20,2,RR,Mohammed Siraj,0,0,0,0,Death
+1,1,20,3,RR,Mohammed Siraj,0,0,1,0,Death
+1,1,20,4,RR,Mohammed Siraj,0,0,0,0,Death
+1,1,20,5,RR,Mohammed Siraj,1,0,0,1,Death
+1,1,20,6,RR,Mohammed Siraj,4,0,0,4,Death
+1,2,1,1,GT,Jofra Archer,4,1,0,5,Power play
+1,2,1,2,GT,Jofra Archer,0,0,0,0,Power play
+1,2,1,3,GT,Jofra Archer,6,0,0,6,Power play
+1,2,1,4,GT,Jofra Archer,0,0,0,0,Power play
+1,2,1,5,GT,Jofra Archer,0,0,0,0,Power play
+1,2,1,6,GT,Jofra Archer,0,0,0,0,Power play
+1,2,1,7,GT,Jofra Archer,4,0,0,4,Power play
+1,2,2,1,GT,Nandre Burger,1,0,0,1,Power play
+1,2,2,2,GT,Nandre Burger,0,1,0,1,Power play
+1,2,2,3,GT,Nandre Burger,4,0,0,4,Power play
+1,2,2,4,GT,Nandre Burger,0,0,0,0,Power play
+1,2,2,5,GT,Nandre Burger,1,0,0,1,Power play
+1,2,2,6,GT,Nandre Burger,0,0,0,0,Power play
+1,2,2,7,GT,Nandre Burger,0,0,0,0,Power play
+1,2,3,1,GT,Jofra Archer,0,0,0,0,Power play
+1,2,3,2,GT,Jofra Archer,1,0,0,1,Power play
+1,2,3,3,GT,Jofra Archer,4,0,0,4,Power play
+1,2,3,4,GT,Jofra Archer,0,0,0,0,Power play
+1,2,3,5,GT,Jofra Archer,1,0,0,1,Power play
+1,2,3,6,GT,Jofra Archer,4,0,0,4,Power play
+1,2,4,1,GT,Sandeep Sharma,2,0,0,2,Power play
+1,2,4,2,GT,Sandeep Sharma,4,0,0,4,Power play
+1,2,4,3,GT,Sandeep Sharma,1,0,0,1,Power play
+1,2,4,4,GT,Sandeep Sharma,0,0,0,0,Power play
+1,2,4,5,GT,Sandeep Sharma,0,0,0,0,Power play
+1,2,4,6,GT,Sandeep Sharma,1,0,0,1,Power play
+1,2,5,1,GT,Tushar Deshpande,4,0,0,4,Power play
+1,2,5,2,GT,Tushar Deshpande,0,0,0,0,Power play
+1,2,5,3,GT,Tushar Deshpande,0,0,0,0,Power play
+1,2,5,4,GT,Tushar Deshpande,0,0,0,0,Power play
+1,2,5,5,GT,Tushar Deshpande,0,0,0,0,Power play
+1,2,5,6,GT,Tushar Deshpande,1,0,0,1,Power play
+1,2,6,1,GT,Sandeep Sharma,2,0,0,2,Power play
+1,2,6,2,GT,Sandeep Sharma,4,0,0,4,Power play
+1,2,6,3,GT,Sandeep Sharma,1,0,0,1,Power play
+1,2,6,4,GT,Sandeep Sharma,4,0,0,4,Power play
+1,2,6,5,GT,Sandeep Sharma,0,0,0,0,Power play
+1,2,6,6,GT,Sandeep Sharma,0,0,0,0,Power play
+1,2,7,1,GT,Ravindra Jadeja,4,0,0,4,Middle
+1,2,7,2,GT,Ravindra Jadeja,2,0,0,2,Middle
+1,2,7,3,GT,Ravindra Jadeja,2,0,0,2,Middle
+1,2,7,4,GT,Ravindra Jadeja,1,0,0,1,Middle
+1,2,7,5,GT,Ravindra Jadeja,1,0,0,1,Middle
+1,2,7,6,GT,Ravindra Jadeja,1,0,0,1,Middle
+1,2,8,1,GT,Riyan Parag,4,0,0,4,Middle
+1,2,8,2,GT,Riyan Parag,0,0,0,0,Middle
+1,2,8,3,GT,Riyan Parag,0,0,0,0,Middle
+1,2,8,4,GT,Riyan Parag,6,0,0,6,Middle
+1,2,8,5,GT,Riyan Parag,1,0,0,1,Middle
+1,2,8,6,GT,Riyan Parag,0,0,1,0,Middle
+1,2,9,1,GT,Ravindra Jadeja,1,0,0,1,Middle
+1,2,9,2,GT,Ravindra Jadeja,1,0,0,1,Middle
+1,2,9,3,GT,Ravindra Jadeja,4,0,0,4,Middle
+1,2,9,4,GT,Ravindra Jadeja,2,0,0,2,Middle
+1,2,9,5,GT,Ravindra Jadeja,6,0,0,6,Middle
+1,2,9,6,GT,Ravindra Jadeja,0,0,0,0,Middle
+1,2,10,1,GT,Nandre Burger,1,1,0,2,Middle
+1,2,10,2,GT,Nandre Burger,1,0,0,1,Middle
+1,2,10,3,GT,Nandre Burger,4,0,0,4,Middle
+1,2,10,4,GT,Nandre Burger,0,0,0,0,Middle
+1,2,10,5,GT,Nandre Burger,1,0,0,1,Middle
+1,2,10,6,GT,Nandre Burger,4,0,0,4,Middle
+1,2,11,1,GT,Ravi Bishnoi,1,0,0,1,Middle
+1,2,11,2,GT,Ravi Bishnoi,1,0,0,1,Middle
+1,2,11,3,GT,Ravi Bishnoi,0,0,0,0,Middle
+1,2,11,4,GT,Ravi Bishnoi,0,0,0,0,Middle
+1,2,11,5,GT,Ravi Bishnoi,0,0,1,0,Middle
+1,2,11,6,GT,Ravi Bishnoi,1,0,0,1,Middle
+1,2,11,7,GT,Ravi Bishnoi,4,0,0,4,Middle
+1,2,12,1,GT,Tushar Deshpande,1,0,0,1,Middle
+1,2,12,2,GT,Tushar Deshpande,4,0,0,4,Middle
+1,2,12,3,GT,Tushar Deshpande,1,0,0,1,Middle
+1,2,12,4,GT,Tushar Deshpande,1,0,0,1,Middle
+1,2,12,5,GT,Tushar Deshpande,4,0,0,4,Middle
+1,2,12,6,GT,Tushar Deshpande,4,0,0,4,Middle
+1,2,13,1,GT,Ravi Bishnoi,0,0,1,0,Middle
+1,2,13,2,GT,Ravi Bishnoi,4,0,0,4,Middle
+1,2,13,3,GT,Ravi Bishnoi,0,0,1,0,Middle
+1,2,13,4,GT,Ravi Bishnoi,0,0,0,0,Middle
+1,2,13,5,GT,Ravi Bishnoi,1,0,0,1,Middle
+1,2,13,6,GT,Ravi Bishnoi,1,0,0,1,Middle
+1,2,14,1,GT,Nandre Burger,0,0,1,0,Middle
+1,2,14,2,GT,Nandre Burger,1,0,0,1,Middle
+1,2,14,3,GT,Nandre Burger,1,0,0,1,Middle
+1,2,14,4,GT,Nandre Burger,6,0,0,6,Middle
+1,2,14,5,GT,Nandre Burger,0,0,0,0,Middle
+1,2,14,6,GT,Nandre Burger,4,0,0,4,Middle
+1,2,15,1,GT,Ravi Bishnoi,4,0,0,4,Middle
+1,2,15,2,GT,Ravi Bishnoi,6,0,0,6,Middle
+1,2,15,3,GT,Ravi Bishnoi,0,0,1,0,Middle
+1,2,15,4,GT,Ravi Bishnoi,4,0,0,4,Middle
+1,2,15,5,GT,Ravi Bishnoi,2,0,1,2,Middle
+1,2,15,6,GT,Ravi Bishnoi,0,0,0,0,Middle
+1,2,16,1,GT,Jofra Archer,1,0,0,1,Death
+1,2,16,2,GT,Jofra Archer,1,0,0,1,Death
+1,2,16,3,GT,Jofra Archer,1,0,0,1,Death
+1,2,16,4,GT,Jofra Archer,6,0,0,6,Death
+1,2,16,5,GT,Jofra Archer,1,0,0,1,Death
+1,2,16,6,GT,Jofra Archer,0,0,0,0,Death
+1,2,17,1,GT,Ravi Bishnoi,1,0,0,1,Death
+1,2,17,2,GT,Ravi Bishnoi,4,0,0,4,Death
+1,2,17,3,GT,Ravi Bishnoi,1,0,0,1,Death
+1,2,17,4,GT,Ravi Bishnoi,0,0,0,0,Death
+1,2,17,5,GT,Ravi Bishnoi,0,0,0,0,Death
+1,2,17,6,GT,Ravi Bishnoi,4,0,0,4,Death
+1,2,18,1,GT,Sandeep Sharma,4,0,0,4,Death
+1,2,18,2,GT,Sandeep Sharma,1,0,0,1,Death
+1,2,18,3,GT,Sandeep Sharma,6,0,0,6,Death
+1,2,18,4,GT,Sandeep Sharma,1,0,0,1,Death
+1,2,18,5,GT,Sandeep Sharma,2,0,0,2,Death
+1,2,18,6,GT,Sandeep Sharma,1,0,0,1,Death
+1,2,19,1,GT,Jofra Archer,1,0,0,1,Death
+1,2,19,2,GT,Jofra Archer,0,0,0,0,Death
+1,2,19,3,GT,Jofra Archer,1,0,0,1,Death
+1,2,19,4,GT,Jofra Archer,1,0,0,1,Death
+1,2,19,5,GT,Jofra Archer,0,0,0,0,Death
+1,2,19,6,GT,Jofra Archer,1,1,0,2,Death
+1,2,20,1,GT,Tushar Deshpande,0,1,0,1,Death
+1,2,20,2,GT,Tushar Deshpande,1,0,0,1,Death
+1,2,20,3,GT,Tushar Deshpande,1,0,0,1,Death
+1,2,20,4,GT,Tushar Deshpande,1,0,0,1,Death
+1,2,20,5,GT,Tushar Deshpande,0,0,1,0,Death
+1,2,20,6,GT,Tushar Deshpande,0,0,0,0,Death
