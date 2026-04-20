@@ -25,7 +25,7 @@ This project performs Exploratory Data Analysis (EDA) on IPL dataset.
 ![Batsman](https://github.com/sameerkhan03-eng/IPL-Data-Analysis-EDA/blob/main/Batsman%202026-04-20%20112706.png)
 
 ![Bowler](https://github.com/sameerkhan03-eng/IPL-Data-Analysis-EDA/blob/main/Bowlers%202026-04-20%20110328.png)
-![Runs Per overs](images/batsman_chart.png)
+![Runs Per overs](https://github.com/sameerkhan03-eng/IPL-Data-Analysis-EDA/blob/main/runs%20Per%20over2026-04-20%20110339.png)
 ![Over Wise Runs](images/bowler_chart.png)
 ![Phase](images/phase_analysis.png)
 
