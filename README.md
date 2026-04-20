@@ -22,7 +22,7 @@ This project performs Exploratory Data Analysis (EDA) on IPL dataset.
 - Toss does not guarantee win  
 
 ## 📷 Screenshots
-![Batsman](images/batsman_chart.png)
+![Batsman](https://github.com/sameerkhan03-eng/IPL-Data-Analysis-EDA/blob/main/Batsman%202026-04-20%20112706.png)
 
 ## 🚀 Author
 Sameer Khan
